@@ -14,16 +14,11 @@
 - ❓ Ask me about anything related to Java/Kotlin and related technologies on [ADPList](https://adplist.org/mentors/leonid-zemenkov)  
   
 
-- ⚡  Know about my experiences on [LinkedIn](https://www.linkedin.com/in/leonid-zemenkov/)  
-  
-
+- ⚡  Know about my experiences on [LinkedIn](https://www.linkedin.com/in/leonid-zemenkov/)   
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
